@@ -1,6 +1,6 @@
 {
   "name": "toggle-on-click-jquery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show something on an element click and hide on any second outside click",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "click",
     "javascript",
     "toggle",
-    "jquery",
+    "jquery"
   ],
   "author": "",
   "license": "MIT",

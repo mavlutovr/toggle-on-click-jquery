@@ -1,4 +1,4 @@
-const toggleOnClick = ($button, $target, { open, close }) => {
+const toggleOnClick = ($button, $target, { open, close } = {}) => {
   let canOpen = true;
 
   if (!close) close = $target => $target.fadeOut(150);

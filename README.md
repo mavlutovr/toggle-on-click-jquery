@@ -55,6 +55,12 @@ $(document).ready(function () {
 })
 ```
 
+Close menu by trigger:
+
+```javascript
+$('#js-menu').trigger('toggleOnClickClose');
+```
+
 ## License
 
 MIT

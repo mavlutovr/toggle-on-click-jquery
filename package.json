@@ -1,0 +1,26 @@
+{
+  "name": "toggle-on-click-jquery",
+  "version": "1.0.0",
+  "description": "Show something on an element click and hide on any second outside click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavlutovr/toggle-on-click-jquery.git"
+  },
+  "keywords": [
+    "html",
+    "click",
+    "javascript",
+    "toggle",
+    "jquery",
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavlutovr/toggle-on-click-jquery/issues"
+  },
+  "homepage": "https://github.com/mavlutovr/toggle-on-click-jquery#readme"
+}
